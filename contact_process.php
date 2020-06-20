@@ -1,5 +1,6 @@
 <?php
 
+// changed my email to the template email
     $to = "kmlrn8522@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
